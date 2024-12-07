@@ -2587,6 +2587,16 @@ export const Formats: FormatList = [
 			}
 		}
   },
+ 	{
+		name: "Braviary New World",
+		desc: `<b>Braviary New World</b>: A SoloMod made by koista12.`,
+		threads: [
+			`<a href="https://www.smogon.com/forums/threads/solomods-megathread.3711007/page-3#post-9618844">Braviary New World</a>`,
+		],
+		mod: 'braviarynewworld',
+		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Moves Clause', 'Species Clause', 'Z-Move Clause', 'Data Mod', 'Mega Data Mod', 'Terastal Clause'],
+		banlist: ['Shell Smash', 'Baton Pass'],
+	},
 	{
         name: "[Gen 9] Climate Change",
         desc: [
